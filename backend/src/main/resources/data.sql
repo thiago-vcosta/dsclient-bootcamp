@@ -1,1 +1,10 @@
-INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Francisco Anysio', '670.788.942-78', 3000.0, 8, TIMESTAMP WITH TIME ZONE '1931-04-12T20:50:00.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Francisco Anysio', '67078894278', 3500.0, 8, TIMESTAMP WITH TIME ZONE '1931-04-12T16:35:14.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Marie Skłodowska Curie', '68157724465', 900.0, 1, TIMESTAMP WITH TIME ZONE '1867-11-07T15:17:59.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Edson Arantes do Nascimento', '83813368483', 6368.0, 7, TIMESTAMP WITH TIME ZONE '1940-10-23T23:44:46.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Beyoncé Giselle Knowles-Carter', '92261618107', 12750.0, 3, TIMESTAMP WITH TIME ZONE '1981-09-04T07:00:50.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Maria da Graça Xuxa Meneghel', '64163223584', 500.0, 1, TIMESTAMP WITH TIME ZONE '1963-03-27T10:32:35.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Michael Jeffrey Jordan', '28329304680', 300000.0, 2, TIMESTAMP WITH TIME ZONE '1963-02-17T15:15:15.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Tarsila de Aguiar do Amaral', '43178073272', 9050.0, 4, TIMESTAMP WITH TIME ZONE '1886-09-01T08:51:16.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('James Marshall Hendrix', '91231415495', 30.0, 0, TIMESTAMP WITH TIME ZONE '1942-11-27T20:55:01.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Chaya Pinkhasivna Lispector', '12700338758', 40.0, 2, TIMESTAMP WITH TIME ZONE '1920-12-10T01:50:34.0Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_date) VALUES ('Carl Edward Sagan', '11278355138', 50.0, 5, TIMESTAMP WITH TIME ZONE '1934-11-09T12:30:21.0Z');
