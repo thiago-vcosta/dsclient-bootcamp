@@ -1,4 +1,4 @@
-package com.devsuperior.dsclient.exceptions;
+package com.devsuperior.dsclient.services.exceptions;
 
 public class DatabaseException extends RuntimeException {
 
@@ -6,6 +6,5 @@ public class DatabaseException extends RuntimeException {
 
 	public DatabaseException(String msg) {
 		super(msg);
-	}	
-	
+	}
 }
